@@ -1,2 +1,2 @@
 # calculoNumerico
-Em construção
+
