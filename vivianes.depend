@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683340894 source:/home/vivi/Documents/Estudos - Logica e Algoritmos - Udemy/vivianes/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
